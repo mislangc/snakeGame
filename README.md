@@ -37,4 +37,5 @@ PyGame
 
 # Other PyGame Projects
 
-- [Flappy Bird](https://github.com/mislangc/flappyBird?tab=readme-ov-file)
+- [Flappy Bird](https://github.com/mislangc/flappyBird)
+- [Dodge Collect Game](https://github.com/mislangc/dodgeCollectGame)
