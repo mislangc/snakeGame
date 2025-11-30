@@ -20,3 +20,7 @@ PyGame
 
 - Main menu
 - Increasing snake speed
+
+# Other PyGame Projects
+
+- [Flappy Bird](https://github.com/mislangc/flappyBird?tab=readme-ov-file)
